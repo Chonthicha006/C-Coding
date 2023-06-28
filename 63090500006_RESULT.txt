@@ -1,0 +1,3 @@
+Linear regression by least square method is : y = ax + b
+	=> a =             1.4
+	=> b =           113.3
